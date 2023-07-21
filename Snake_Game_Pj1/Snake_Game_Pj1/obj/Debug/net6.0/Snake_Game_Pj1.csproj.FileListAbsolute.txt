@@ -1,0 +1,15 @@
+C:\Coding\Snake_Game\Snake_Game_Pj1\Snake_Game_Pj1\bin\Debug\net6.0\Snake_Game_Pj1.exe
+C:\Coding\Snake_Game\Snake_Game_Pj1\Snake_Game_Pj1\bin\Debug\net6.0\Snake_Game_Pj1.deps.json
+C:\Coding\Snake_Game\Snake_Game_Pj1\Snake_Game_Pj1\bin\Debug\net6.0\Snake_Game_Pj1.runtimeconfig.json
+C:\Coding\Snake_Game\Snake_Game_Pj1\Snake_Game_Pj1\bin\Debug\net6.0\Snake_Game_Pj1.dll
+C:\Coding\Snake_Game\Snake_Game_Pj1\Snake_Game_Pj1\bin\Debug\net6.0\Snake_Game_Pj1.pdb
+C:\Coding\Snake_Game\Snake_Game_Pj1\Snake_Game_Pj1\obj\Debug\net6.0\Snake_Game_Pj1.csproj.AssemblyReference.cache
+C:\Coding\Snake_Game\Snake_Game_Pj1\Snake_Game_Pj1\obj\Debug\net6.0\Snake_Game_Pj1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coding\Snake_Game\Snake_Game_Pj1\Snake_Game_Pj1\obj\Debug\net6.0\Snake_Game_Pj1.AssemblyInfoInputs.cache
+C:\Coding\Snake_Game\Snake_Game_Pj1\Snake_Game_Pj1\obj\Debug\net6.0\Snake_Game_Pj1.AssemblyInfo.cs
+C:\Coding\Snake_Game\Snake_Game_Pj1\Snake_Game_Pj1\obj\Debug\net6.0\Snake_Game_Pj1.csproj.CoreCompileInputs.cache
+C:\Coding\Snake_Game\Snake_Game_Pj1\Snake_Game_Pj1\obj\Debug\net6.0\Snake_Game_Pj1.dll
+C:\Coding\Snake_Game\Snake_Game_Pj1\Snake_Game_Pj1\obj\Debug\net6.0\refint\Snake_Game_Pj1.dll
+C:\Coding\Snake_Game\Snake_Game_Pj1\Snake_Game_Pj1\obj\Debug\net6.0\Snake_Game_Pj1.pdb
+C:\Coding\Snake_Game\Snake_Game_Pj1\Snake_Game_Pj1\obj\Debug\net6.0\Snake_Game_Pj1.genruntimeconfig.cache
+C:\Coding\Snake_Game\Snake_Game_Pj1\Snake_Game_Pj1\obj\Debug\net6.0\ref\Snake_Game_Pj1.dll
